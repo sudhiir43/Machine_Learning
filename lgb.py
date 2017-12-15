@@ -151,5 +151,3 @@ print("writing results to submission.csv")
 d = pd.DataFrame({'Unique_ID':test_UniqueID,
                  'Class_1_Probability':Class_1_Probability})
 d.to_csv(path+'submission.csv',index=None)
-print("#"*50)
-print("Woah!! execution finished")
