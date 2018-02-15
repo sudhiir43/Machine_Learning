@@ -4,7 +4,8 @@
 [**BigMartPred.R**](https://github.com/sudhiir43/Machine_Learning/blob/master/BigMartPred.R)
 
 - Big Mart Sales prediction 
-- Analyticsvidya Hackathon
+- Analyticsvidya [Hackathon](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
+- 14th rank on [public LB](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/lb)
 
 ## 2. Monsoon CreditTech Hiring
 [**lgb.py**](https://github.com/sudhiir43/Machine_Learning/blob/master/lgb.py)
@@ -16,5 +17,5 @@
 
 ## 3. Felicity : Kings of Machine Learning
 [**Analyticvidya_Felicity.ipynb**](https://github.com/sudhiir43/Machine_Learning/blob/master/Analyticvidya_Felicity.ipynb)
-- Analyticsvidya hackathon
-- 28th rank on private LB
+- Analyticsvidya [hackathon](https://datahack.analyticsvidhya.com/contest/kings-of-machine-learning/)
+- 28th rank on [private LB](https://datahack.analyticsvidhya.com/contest/kings-of-machine-learning/pvt_lb)
