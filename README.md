@@ -1,12 +1,12 @@
 # Machine_Learning
 
-## Analyticvidya Bigmart Sales
+## 1. Analyticvidya Bigmart Sales
 **BigMartPred.R**
 
 - Big Mart Sales prediction 
 - Analyticsvidya Hackathon
 
-## Monsoon CreditTech Hiring
+## 2. Monsoon CreditTech Hiring
 **lgb.py**
 - BSFI sector data
 - Binary classification with LightGBM
@@ -14,5 +14,5 @@
 
 <img src="https://github.com/sudhiir43/Machine_Learning/blob/master/results.PNG">
 
-## Felicity : Kings of Machine Learning
+## 3. Felicity : Kings of Machine Learning
 **Analyticvidya_Felicity.ipynb**
